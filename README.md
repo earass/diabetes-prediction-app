@@ -1,1 +1,1 @@
-# diabetes-prediction-app
+# diabetes prediction app using Python Streamlit
